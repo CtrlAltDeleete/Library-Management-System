@@ -7,6 +7,6 @@
 ---> Used Object-Oriented Programming with ArrayLists and HashMaps to manage data efficiently
 
 ![Demo](Picture1.png)
-![Demo](Picture1.png)
-![Demo](Picture1.png)
-![Demo](Picture1.png)
+![Demo](Picture2.png)
+![Demo](Picture3.png)
+![Demo](Picture4.png)
